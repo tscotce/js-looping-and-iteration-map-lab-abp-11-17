@@ -3,4 +3,5 @@ function lowerCaseDrivers (drivers) {
     for (const element of array) {
     newNames.push (drivers (drivers.toLowerCase));
     }
+    return newNames;
   }
