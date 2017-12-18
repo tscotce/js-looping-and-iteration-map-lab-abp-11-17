@@ -1,3 +1,3 @@
 function lowerCaseDrivers (nameLowerCase) {
-  const driversLowerCase = map(drivers, )
+  const driversLowerCase = map(drivers, function (nameLowerCase))
 }
